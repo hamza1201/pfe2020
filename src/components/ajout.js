@@ -17,7 +17,8 @@ class Ajout extends Component {
       <input type="text" class="form-control" id="inputPassword4" placeholder="" />
     </div>
   </div>
-
+  <div class="prix">
+  <label for="inputEmail4">Prix de Produit</label>
   <div class="input-group mb-3">
   <div class="input-group-prepend">
     <span class="input-group-text">$</span>
@@ -26,6 +27,7 @@ class Ajout extends Component {
   <div class="input-group-append">
     <span class="input-group-text">.00</span>
   </div>
+</div>
 </div>
 
   <div class="form-group">
@@ -46,7 +48,8 @@ class Ajout extends Component {
     <label for="exampleFormControlFile1">Image de Produit</label>
     <input type="file" class="form-control-file" id="exampleFormControlFile1" />
     </div>
-    </div>
+    
+  </div>
 
     <Button class="form-button" variant="primary" type="submit">
     Ajouter
