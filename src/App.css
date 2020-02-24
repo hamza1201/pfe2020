@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+
+}
+header{
+  padding: 10px 20px 0px 20px;
+  
+}
+
+.form-category{
+  text-align: center;
+}
+.form-row{
+  text-align: center;
+  
+}
+label{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.form-control{
+  width: 300px;
+  height: 300px;
+  
+}
+input{
+  
+  width: 400px;
+}
+.image{
+  margin-left:150px;
+}
+.form-button{
+  margin-top:40px;
+}
+.formulaire{
+  
+  padding: 50px;
+
+}
+
+
+
