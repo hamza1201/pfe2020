@@ -49,6 +49,86 @@ input{
 .prix{
   padding-bottom: 40px;
 }
+.table{
+  padding: 40px;
+}
+.row{
+  right:60%;
+  text-align: center;
+  margin:20px;
+}
+h3{
+  padding:20px;
+}
+.buttonsub{
+  padding-top:40px;
+  padding-bottom: 150px;
+
+}
+.containerlogin{
+  text-align: center;
+  
+  
+}
+.all{
+  padding:100px;
+}
+.posbutton{
+  text-align: right;
+  padding-bottom: 10px;
+  padding-right: 100px;
+  position: relative;
+  left: 800px;
+  size: 1.4em;
+  
+  
+  
+  
+}
+.container{
+  padding-bottom: 300px;
+}
+.navlogin{
+  background-color:rgb(0, 188, 212);
+  text-align: center;
+  padding:15px;
+  font-size: x-large;
+  font-family: sans-serif;
+}
+.navaffiche{
+  text-align: center;
+  padding:15px;
+  font-size: x-large;
+  font-family: sans-serif;
+  color:blue;
+  
+
+}
+.borderbutton{
+  background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;  
+
+}
+.inpad{
+  padding-top: 30px;
+}
+.form{
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 7%;
+}
+.r{
+  padding-top: 5%;
+}
+.bb{
+  padding-bottom: 10%;
+}
+
+
+
 
 
 

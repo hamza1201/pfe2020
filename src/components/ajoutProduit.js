@@ -1,9 +1,12 @@
 import React,{Component } from "react";
 import { Button} from "react-bootstrap";
-class Ajout extends Component {
+import Appbar from 'muicss/lib/react/appbar';
+class AjoutProduit extends Component {
     render(){
     return (
-     
+  <div>
+    <Appbar className="navlogin">Ajouter un Produit</Appbar>
+    
 <form class="formulaire">
   
   <div class="form-row">
@@ -50,11 +53,13 @@ class Ajout extends Component {
     </div>
     
   </div>
-
-    <Button class="form-button" variant="primary" type="submit">
-    Ajouter
-  </Button>
+  <div>
+  <button type="button" class="btn btn-light">Annuler</button>
+  <button type="button" class="btn btn-primary">Ajouter</button>
+  </div>
+  
 </form>
+</div> 
     );
     }}
-    export default Ajout;
+    export default AjoutProduit;
