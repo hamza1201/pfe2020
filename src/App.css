@@ -125,6 +125,14 @@ h3{
 .bb{
   padding-bottom: 10%;
 }
+b{
+  font-size: 13px;
+  text-transform: lowercase;
+}
+strong{
+  font-size: 13px;
+
+}
 
 
 

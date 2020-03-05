@@ -26,7 +26,7 @@ class AfficheProduit extends Component {
       </div>
     <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
     <div class="posbutton">
-        <a class="btn btn-success btn-sm" href="ajoutProduit" role="button">Ajouter
+        <a class="btn btn-success btn-sm" href="ajoutProduit" role="button"><strong>A</strong><b>jouter</b>
         </a>
     </div>
   </form>
