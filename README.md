@@ -20,6 +20,7 @@ npm i redux
 npm i redux-thunk
 npm i prop-types
 npm i styled-components
+npm i react-bootstrap-table
 
 =>npm start 
 
