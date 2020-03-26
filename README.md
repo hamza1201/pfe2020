@@ -1,5 +1,40 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+instalation : 
+npm install
+npm i react
+npm i axios
+npm i bootstrap
+npm i classnames
+npm i jwt-decode
+npm i react-bootstrap
+npm i react-dom
+npm i react-icons
+npm i react-mdl
+npm i react-redux
+npm i react-router-dom
+npm i react-scripts
+npm i redux
+npm i redux-thunk
+npm i prop-types
+npm i styled-components
+
+=>npm start 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
